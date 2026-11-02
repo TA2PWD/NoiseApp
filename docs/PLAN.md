@@ -148,7 +148,6 @@ The app never runs Python.
 
 ## Open questions
 
-- M0: licence for the public repo?
 - M3: export sample rate: model rate (44.1 kHz) or source rate?
 - M3: stems of a mono source: export mono or stereo?
 - M3: integer export: clip policy (rescale / clamp / none), 16-bit dither?
