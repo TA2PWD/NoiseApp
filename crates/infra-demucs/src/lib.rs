@@ -1,0 +1,1 @@
+//! Demucs ONNX separator adapter.
